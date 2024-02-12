@@ -1,4 +1,4 @@
-module github.com/etherdev12/go-defi
+module github.com/NickTaporuk/go-defi
 
 go 1.21.3
 
