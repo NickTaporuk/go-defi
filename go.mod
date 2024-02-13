@@ -4,7 +4,7 @@ go 1.21.3
 
 require (
 	github.com/NickTaporuk/go-rpc v0.0.0-20240213185440-222da9978c48
-	github.com/ethereum/go-ethereum v1.13.11
+	github.com/ethereum/go-ethereum v1.13.12
 	github.com/pkg/errors v0.9.1
 	github.com/shopspring/decimal v1.3.1
 	github.com/stretchr/testify v1.8.4
