@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/etherdev12/go-defi/config"
+	"github.com/NickTaporuk/go-defi/config"
 	"github.com/pkg/errors"
 	"gorm.io/driver/postgres"
 	"gorm.io/driver/sqlite"

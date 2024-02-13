@@ -4,9 +4,9 @@ import (
 	"context"
 	"math/big"
 
-	"github.com/etherdev12/go-defi/sushiswap"
-	"github.com/etherdev12/go-defi/uniswap"
-	"github.com/etherdev12/go-defi/utils"
+	"github.com/NickTaporuk/go-defi/sushiswap"
+	"github.com/NickTaporuk/go-defi/uniswap"
+	"github.com/NickTaporuk/go-defi/utils"
 	"github.com/ethereum/go-ethereum/ethclient"
 	"github.com/pkg/errors"
 )

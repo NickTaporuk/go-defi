@@ -9,8 +9,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/etherdev12/go-defi/utils"
-	"github.com/NickTaporuk/go-rpc"
+	"github.com/NickTaporuk/go-defi/utils"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/ethclient"
 	"github.com/pkg/errors"
@@ -148,7 +147,7 @@ var (
 			Dev:   true,
 		},
 	}
-	RpcUrl = "https://github.com/etherdev12/go-rpc/raw/main/rpc.txt"
+	RpcUrl = "https://github.com/NickTaporuk/go-rpc/raw/main/rpc.txt"
 )
 
 // NewConfig generates a new config and stores at path

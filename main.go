@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/etherdev12/go-defi/bclient"
-	"github.com/etherdev12/go-defi/config"
+	"github.com/NickTaporuk/go-defi/bclient"
+	"github.com/NickTaporuk/go-defi/config"
 )
 
 func main() {

@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/etherdev12/go-defi/bclient"
-	"github.com/etherdev12/go-defi/config"
+	"github.com/NickTaporuk/go-defi/bclient"
+	"github.com/NickTaporuk/go-defi/config"
 	"github.com/pkg/errors"
 	"github.com/urfave/cli/v2"
 )

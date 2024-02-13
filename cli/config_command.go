@@ -1,7 +1,7 @@
 package cli
 
 import (
-	"github.com/etherdev12/go-defi/config"
+	"github.com/NickTaporuk/go-defi/config"
 	"github.com/urfave/cli/v2"
 )
 
