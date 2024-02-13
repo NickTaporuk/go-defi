@@ -10,6 +10,7 @@ import (
 	"os"
 
 	"github.com/NickTaporuk/go-defi/utils"
+	rpc "github.com/NickTaporuk/go-rpc/rpc"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/ethclient"
 	"github.com/pkg/errors"
